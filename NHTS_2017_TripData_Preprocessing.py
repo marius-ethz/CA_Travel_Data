@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  3 10:32:53 2019
 
-@author: mschwarz
+@author: mschwarz1
 """
 
 import pandas as pd
@@ -28,7 +28,7 @@ plt.rcParams["figure.figsize"] = (20,10)
 os.chdir("Z:/Public/997 Collaboration/Marius Schwarz/03_VGI in California/00_Marius Schwarz/99_Python Code/02_CA_Travel_Data")  
 
 
-#%%
+#%%#
 ########################################################################################
 ####################   1. Create Initial Dataset 'data'   ##############################
 ########################################################################################
